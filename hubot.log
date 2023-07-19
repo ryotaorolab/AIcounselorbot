@@ -1,0 +1,3098 @@
+[2023-07-16 20:26:24]  WebSocket opened.    
+[Sun Jul 16 2023 20:26:25 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:26:25 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:27:30 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:11:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:30:13]  WebSocket opened.    
+[Sun Jul 16 2023 20:30:13 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:30:13 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:30:48]  WebSocket opened.    
+[Sun Jul 16 2023 20:30:48 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:30:48 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:31:06]  WebSocket opened.    
+[Sun Jul 16 2023 20:31:06 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:31:06 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:32:05]  WebSocket opened.    
+[Sun Jul 16 2023 20:32:05 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:32:05 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:32:21]  WebSocket opened.    
+[Sun Jul 16 2023 20:32:21 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:32:22 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:32:54]  WebSocket opened.    
+[Sun Jul 16 2023 20:32:54 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:32:54 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:33:23 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:12:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:33:59]  WebSocket opened.    
+[Sun Jul 16 2023 20:33:59 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:33:59 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:34:22]  WebSocket opened.    
+[Sun Jul 16 2023 20:34:22 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:34:22 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:34:38]  WebSocket opened.    
+[Sun Jul 16 2023 20:34:38 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:34:38 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:34:48 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:12:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:39:08]  WebSocket opened.    
+[Sun Jul 16 2023 20:39:09 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:39:09 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:39:27]  WebSocket opened.    
+[Sun Jul 16 2023 20:39:27 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:39:27 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:39:35 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:13:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:40:21]  WebSocket opened.    
+[Sun Jul 16 2023 20:40:21 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:40:21 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:40:46]  WebSocket opened.    
+[Sun Jul 16 2023 20:40:46 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:40:46 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:42:06]  WebSocket opened.    
+[Sun Jul 16 2023 20:42:06 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:42:06 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:42:30]  WebSocket opened.    
+[Sun Jul 16 2023 20:42:30 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:42:30 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:43:53]  WebSocket opened.    
+[Sun Jul 16 2023 20:43:54 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:43:54 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:45:58]  WebSocket opened.    
+[Sun Jul 16 2023 20:45:58 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:45:58 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:46:51]  WebSocket opened.    
+[Sun Jul 16 2023 20:46:51 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:46:51 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:47:27]  WebSocket opened.    
+[Sun Jul 16 2023 20:47:27 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:47:27 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:47:28 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:13:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:47:58]  WebSocket opened.    
+[Sun Jul 16 2023 20:47:58 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:47:58 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 20:48:04 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:13:33)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 20:48:22]  WebSocket opened.    
+[Sun Jul 16 2023 20:48:22 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:48:22 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:49:43]  WebSocket opened.    
+[Sun Jul 16 2023 20:49:43 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:49:43 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:52:30]  WebSocket opened.    
+[Sun Jul 16 2023 20:52:30 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:52:30 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:52:57]  WebSocket opened.    
+[Sun Jul 16 2023 20:52:57 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:52:57 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:54:33]  WebSocket opened.    
+[Sun Jul 16 2023 20:54:33 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:54:33 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:55:40]  WebSocket opened.    
+[Sun Jul 16 2023 20:55:40 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:55:40 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:56:24]  WebSocket opened.    
+[Sun Jul 16 2023 20:56:24 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:56:24 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 20:57:35]  WebSocket opened.    
+[Sun Jul 16 2023 20:57:35 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:77
+                        text: 'アンケートワード :" + ankeat,
+                              ^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+  at Object.compileFunction (node:vm:360:18)
+  at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+  at Module._compile (node:internal/modules/cjs/loader:1162:27)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-16 20:58:08]  WebSocket opened.    
+[Sun Jul 16 2023 20:58:09 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 20:58:09 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:00:44]  WebSocket opened.    
+[Sun Jul 16 2023 21:00:45 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:00:45 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:07:01]  WebSocket opened.    
+[Sun Jul 16 2023 21:07:01 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:07:02 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:07:14]  WebSocket opened.    
+[Sun Jul 16 2023 21:07:15 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:07:15 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:07:52]  WebSocket opened.    
+[Sun Jul 16 2023 21:07:52 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:07:52 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Sun Jul 16 2023 21:08:12 GMT+0900 (日本標準時)] ERROR TypeError: Cannot read properties of undefined (reading 'options')
+  at Aa.onsend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:83:43)
+  at Aa.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381410)
+  at Aa.emitOnSend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:381611)
+  at Ea.messageCreated (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:378845)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:369860)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at Tr.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:245595)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 21:13:40]  WebSocket closed. 1006 Socket Error: read ECONNRESET null    
+[2023-07-16 21:13:40]  onClose. code:1006, reason:Socket Error: read ECONNRESET, wasClean:null    
+[2023-07-16 21:13:41]  WebSocket opened.    
+[2023-07-16 21:16:07]  WebSocket opened.    
+[Sun Jul 16 2023 21:16:07 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:16:07 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:16:35]  WebSocket opened.    
+[Sun Jul 16 2023 21:16:35 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:16:35 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:18:34]  WebSocket opened.    
+[Sun Jul 16 2023 21:18:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:18:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:28:47]  WebSocket opened.    
+[Sun Jul 16 2023 21:28:48 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:28:48 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a sight to see, that's not at all small.
+It's made of iron and it's very strong,
+It's been standing for over 130 years, that's quite long.
+It's a symbol of Paris and France,
+It's a must-see for all tourists, no need to dance.
+[Sun Jul 16 2023 21:29:52 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:31:37]  WebSocket opened.    
+[Sun Jul 16 2023 21:31:37 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:31:37 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a popular tourist attraction, and it's not small.
+It was built in 1889 for the World's Fair,
+And it's been a symbol of Paris ever since, I swear.
+[Sun Jul 16 2023 21:32:08 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:32:56]  WebSocket opened.    
+[Sun Jul 16 2023 21:32:57 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:32:57 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is three hundred and twenty-four meters tall.
+It's made of iron and weighs ten thousand tons, I recall.
+It was built for the 1889 World's Fair,
+And it's been a popular tourist destination ever since, I declare.
+[Sun Jul 16 2023 21:33:16 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:33:57]  WebSocket opened.    
+[Sun Jul 16 2023 21:33:57 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:33:57 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+And it's made of iron, not some cheap wall.
+It's a symbol of Paris, and it's very grand,
+And it's a must-see for any tourist in demand.
+[Sun Jul 16 2023 21:34:15 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:37:12]  WebSocket opened.    
+[Sun Jul 16 2023 21:37:13 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:37:13 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:37:48]  WebSocket opened.    
+[Sun Jul 16 2023 21:37:49 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:37:49 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a sight to behold, I must recall.
+It's made of wrought iron and weighs 10,100 tons,
+It's a symbol of Paris, I'm not alone in my fondness.
+[Sun Jul 16 2023 21:38:37 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:39:16]  WebSocket opened.    
+[Sun Jul 16 2023 21:39:17 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:39:17 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:39:41]  WebSocket opened.    
+[Sun Jul 16 2023 21:39:42 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:39:42 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a sight to see, it's not small.
+It's made of iron and steel,
+It's a symbol of France, you can feel.
+It was built in 1889,
+It's a wonder of the world, you can bet.
+[Sun Jul 16 2023 21:40:07 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:41:34]  WebSocket opened.    
+[Sun Jul 16 2023 21:41:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:41:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:41:44]  WebSocket opened.    
+[Sun Jul 16 2023 21:41:45 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:41:45 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a popular tourist attraction, that's not at all small.
+It was built in 1889 for the World's Fair,
+And it's been a symbol of Paris ever since, without a care.
+[Sun Jul 16 2023 21:42:03 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:3)
+
+[2023-07-16 21:42:30]  WebSocket opened.    
+[Sun Jul 16 2023 21:42:30 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:126
+  console.log(oom: robot.brain.rooms())
+              ^^^
+
+SyntaxError: missing ) after argument list
+  at Object.compileFunction (node:vm:360:18)
+  at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+  at Module._compile (node:internal/modules/cjs/loader:1162:27)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-16 21:42:57]  WebSocket opened.    
+[Sun Jul 16 2023 21:42:58 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:42:58 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a sight to behold, both near and far.
+[Sun Jul 16 2023 21:43:15 GMT+0900 (日本標準時)] ERROR ReferenceError: robot is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:126:15)
+
+[2023-07-16 21:43:56]  WebSocket opened.    
+[Sun Jul 16 2023 21:43:56 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:43:56 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:44:02]  WebSocket opened.    
+[Sun Jul 16 2023 21:44:03 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:44:03 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a wonder of the world, that's quite a haul.
+It's made of wrought iron and weighs 10,100 tons,
+It's a popular tourist destination, and it's always in high demand.
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[Sun Jul 16 2023 21:44:22 GMT+0900 (日本標準時)] ERROR TypeError: e.room.split is not a function
+  at e.DirectAPI.send (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:1389)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:34:9, <js>:62:28
+  at Array.forEach (<anonymous>:null:null)
+  at Adapter.Direct.send (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:28:5, <js>:55:22)
+  at Robot.send (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:601:23)
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:9)
+
+[2023-07-16 21:46:05]  WebSocket opened.    
+[Sun Jul 16 2023 21:46:06 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:46:06 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is 324 meters tall,
+It's a popular tourist attraction, that's not all.
+It's made of wrought iron and weighs 10,100 tons,
+It's a symbol of Paris, and it's really quite grand.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[Sun Jul 16 2023 21:46:26 GMT+0900 (日本標準時)] ERROR ReferenceError: res is not defined
+  at main (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:127:22)
+
+[2023-07-16 21:48:14]  WebSocket opened.    
+[Sun Jul 16 2023 21:48:15 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:48:15 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 21:48:27]  WebSocket opened.    
+[Sun Jul 16 2023 21:48:27 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 21:48:27 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is three hundred and twenty-four meters tall,
+It's one of the most famous landmarks in the world, not small.
+It's made of iron and was built in Paris, France,
+It's a popular tourist destination, no need to advance.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[2023-07-16 22:10:43]  WebSocket opened.    
+[Sun Jul 16 2023 22:10:44 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:10:44 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+元気だ
+The Eiffel Tower is 324 meters tall,
+It's a sight to behold, I must recall.
+It's made of iron and steel,
+And it's been standing for many a year,
+It's a symbol of Paris, and it's truly a marvel.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[2023-07-16 22:16:21]  WebSocket opened.    
+[Sun Jul 16 2023 22:16:21 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:16:21 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 22:19:19]  WebSocket opened.    
+[Sun Jul 16 2023 22:19:19 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:19:19 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 22:24:37]  WebSocket opened.    
+[Sun Jul 16 2023 22:24:38 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:24:38 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The Eiffel Tower is three hundred and twenty-four meters tall,
+It's a sight to behold, and it's made of wrought iron, not straw.
+It was built for the 1889 World's Fair,
+And it's been a Paris landmark ever since, without a care.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[2023-07-16 22:31:39]  WebSocket opened.    
+[Sun Jul 16 2023 22:31:39 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:31:39 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 22:33:45]  WebSocket opened.    
+[Sun Jul 16 2023 22:33:45 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 22:33:45 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+motivation
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+The search word is: "how to be more energetic"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+[2023-07-16 23:00:16]  WebSocket opened.    
+[Sun Jul 16 2023 23:00:16 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass: Error: Cannot find module 'axios'
+Require stack:
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/es2015.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/index.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot
+  at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+  at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Object.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass.js:4:15)
+  at Module._compile (node:internal/modules/cjs/loader:1198:14)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-16 23:01:34]  WebSocket opened.    
+[Sun Jul 16 2023 23:01:35 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass to assign a function to module.exports, got object
+[Sun Jul 16 2023 23:01:35 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:1
+import { MinnaTransClass } from 'minnaTransClass.js';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+  at Object.compileFunction (node:vm:360:18)
+  at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+  at Module._compile (node:internal/modules/cjs/loader:1162:27)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+  at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 23:05:06]  WebSocket opened.    
+[Sun Jul 16 2023 23:05:07 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass to assign a function to module.exports, got object
+[Sun Jul 16 2023 23:05:07 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:1
+import { MinnaTransClass } from './minnaTransClass.js';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+  at Object.compileFunction (node:vm:360:18)
+  at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+  at Module._compile (node:internal/modules/cjs/loader:1162:27)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+  at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 23:06:38]  WebSocket opened.    
+[Sun Jul 16 2023 23:06:39 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass: Error [ERR_REQUIRE_ESM]: require() of ES Module /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/minnaTransClass.js from /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js not supported.
+minnaTransClass.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead rename minnaTransClass.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+
+    at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+    at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+    at Array.map (<anonymous>)
+    at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+    at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+    at Object.onceWrapper (node:events:627:28)
+    at Adapter.emit (node:events:513:28)
+    at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:201:21)
+    at l.emit (node:events:513:28)
+    at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+    at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+    at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+    at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+    at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+    at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+    at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+    at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+    at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+    at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+    at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+    at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at WebSocketConnection.emit (node:events:513:28)
+    at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+[2023-07-16 23:11:26]  WebSocket opened.    
+[Sun Jul 16 2023 23:11:27 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error [ERR_REQUIRE_ESM]: require() of ES Module /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js from /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js not supported.
+Instead change the require of palmbot.js in /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js to a dynamic import() which is available in all CommonJS modules.
+    at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+    at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+    at Array.map (<anonymous>)
+    at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+    at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+    at Object.onceWrapper (node:events:627:28)
+    at Adapter.emit (node:events:513:28)
+    at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:201:21)
+    at l.emit (node:events:513:28)
+    at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+    at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+    at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+    at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+    at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+    at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+    at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+    at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+    at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+    at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+    at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+    at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at WebSocketConnection.emit (node:events:513:28)
+    at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+[2023-07-16 23:24:50]  WebSocket opened.    
+[Sun Jul 16 2023 23:24:51 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error [ERR_REQUIRE_ESM]: require() of ES Module /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js from /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js not supported.
+palmbot.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which declares all .js files in that package scope as ES modules.
+Instead rename palmbot.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change "type": "module" to "type": "commonjs" in /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).
+
+    at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+    at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+    at Array.map (<anonymous>)
+    at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+    at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+    at Object.onceWrapper (node:events:627:28)
+    at Adapter.emit (node:events:513:28)
+    at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:201:21)
+    at l.emit (node:events:513:28)
+    at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+    at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+    at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+    at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+    at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+    at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+    at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+    at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+    at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+    at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+    at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+    at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+    at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+    at WebSocketConnection.emit (node:events:513:28)
+    at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+[2023-07-16 23:26:23]  WebSocket opened.    
+[Sun Jul 16 2023 23:26:23 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error: Cannot find module 'dotenv'
+Require stack:
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/es2015.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/index.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot
+  at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+  at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Object.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:195:1)
+  at Module._compile (node:internal/modules/cjs/loader:1198:14)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+  at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 23:27:50]  WebSocket opened.    
+[Sun Jul 16 2023 23:27:52 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:27:52 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+"how to be more energetic"
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+「もっと元気になる方法」
+[2023-07-16 23:30:03]  WebSocket opened.    
+[Sun Jul 16 2023 23:30:04 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:30:04 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+pachinko
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+パチンコ
+[2023-07-16 23:31:48]  WebSocket opened.    
+[Sun Jul 16 2023 23:31:49 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:31:49 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The search word is: "how to be more energetic"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「もっと元気になる方法」です。
+[2023-07-16 23:33:31]  WebSocket opened.    
+[Sun Jul 16 2023 23:33:32 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:33:32 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The search word is: "how to be less irritable"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「どうすればイライラしなくなるか」
+[2023-07-16 23:35:14]  WebSocket opened.    
+[Sun Jul 16 2023 23:35:14 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:35:15 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 23:38:30]  WebSocket opened.    
+[Sun Jul 16 2023 23:38:31 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:38:31 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[2023-07-16 23:38:41]  WebSocket opened.    
+[Sun Jul 16 2023 23:38:42 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:38:42 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+The search word you are looking for is: get irritated
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:イライラする
+[2023-07-16 23:47:23]  WebSocket opened.    
+[Sun Jul 16 2023 23:47:23 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error: Cannot find module 'googleapis'
+Require stack:
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/es2015.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/index.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot
+  at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+  at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Object.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:1:20)
+  at Module._compile (node:internal/modules/cjs/loader:1198:14)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-16 23:53:06]  WebSocket opened.    
+[Sun Jul 16 2023 23:53:07 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error: Cannot find module 'googleapis'
+Require stack:
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/es2015.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/index.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js
+- /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot
+  at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+  at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Object.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:1:20)
+  at Module._compile (node:internal/modules/cjs/loader:1198:14)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+  at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-16 23:53:46]  WebSocket opened.    
+[Sun Jul 16 2023 23:53:48 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:53:48 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Sun Jul 16 2023 23:53:48 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+how to be more energetic
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+もっと元気になる方法
+[2023-07-16 23:56:31]  WebSocket opened.    
+[Sun Jul 16 2023 23:56:33 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Sun Jul 16 2023 23:56:33 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Sun Jul 16 2023 23:56:33 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+The search word is: "how to be less irritable"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「どうすればイライラしなくなるか」
+[2023-07-17 00:00:59]  WebSocket opened.    
+[Mon Jul 17 2023 00:01:01 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:01:01 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:01:01 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:11:25]  WebSocket opened.    
+[Mon Jul 17 2023 00:11:26 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:11:26 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:11:26 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:12:33]  WebSocket opened.    
+[Mon Jul 17 2023 00:12:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:12:34 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:12:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:13:11]  WebSocket opened.    
+[Mon Jul 17 2023 00:13:13 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:13:13 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:13:13 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:13:22]  WebSocket opened.    
+[Mon Jul 17 2023 00:13:23 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:13:23 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:13:23 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:13:36]  WebSocket opened.    
+[Mon Jul 17 2023 00:13:37 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:13:37 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:13:37 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:15:57]  WebSocket opened.    
+[Mon Jul 17 2023 00:15:57 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:366
+
+
+
+SyntaxError: Unexpected end of input
+  at Object.compileFunction (node:vm:360:18)
+  at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+  at Module._compile (node:internal/modules/cjs/loader:1162:27)
+  at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+  at Module.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/coffeescript/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+  at Module.require (node:internal/modules/cjs/loader:1100:19)
+  at require (node:internal/modules/cjs/helpers:108:18)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:376:22)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-17 00:23:07]  WebSocket opened.    
+[Mon Jul 17 2023 00:23:09 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:23:09 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:23:09 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+It looks hard to get a job.
+The search word you are looking for is: "how to stay motivated when you're feeling down"
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは、「気分が落ち込んでいるときにモチベーションを維持する方法」です。
+[2023-07-17 00:35:29]  WebSocket opened.    
+[Mon Jul 17 2023 00:35:31 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:35:31 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:35:31 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[2023-07-17 00:36:45]  WebSocket opened.    
+[Mon Jul 17 2023 00:36:53 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:36:53]  WebSocket opened.    
+[Mon Jul 17 2023 00:36:55 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:36:55 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:36:55 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+What should I do with my
+The search word you are looking for is: **motivational videos**
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:**動機付けビデオ**
+[Mon Jul 17 2023 00:40:38 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:40:38]  WebSocket opened.    
+[Mon Jul 17 2023 00:40:39 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:40:39 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:40:39 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 00:40:55 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:40:55]  WebSocket opened.    
+[Mon Jul 17 2023 00:40:57 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:40:57 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:40:57 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+We can't be friends.
+We can't be friends.
+The search word you are looking for is: "how to be motivated"
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+the search word is: how to find motivation
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワード:モチベーションを見つける方法
+あなたが探している検索ワードは"how to be motivated"です。
+[Mon Jul 17 2023 00:43:37 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:43:38]  WebSocket opened.    
+[Mon Jul 17 2023 00:43:39 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:43:39 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:43:39 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 00:45:33 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:45:33]  WebSocket opened.    
+[Mon Jul 17 2023 00:45:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:45:34 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:45:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 00:45:43 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:45:43]  WebSocket opened.    
+[Mon Jul 17 2023 00:45:45 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:45:45 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:45:45 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+[Mon Jul 17 2023 00:46:13 GMT+0900 (日本標準時)] ERROR ReferenceError: freemasseage_ja is not defined
+  at Timeout.freemasseage_jaattend [as _onTimeout] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:223:15)
+  at listOnTimeout (node:internal/timers:559:17)
+  at processTimers (node:internal/timers:502:7)
+
+[Mon Jul 17 2023 00:46:59 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:46:59]  WebSocket opened.    
+[Mon Jul 17 2023 00:47:01 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:47:01 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:47:01 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+[Mon Jul 17 2023 00:47:27 GMT+0900 (日本標準時)] ERROR ReferenceError: freemasseage_ja is not defined
+  at freemasseage_jaattend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:223:15)
+  at transformtext (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:354:20)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[Mon Jul 17 2023 00:52:24 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:52:24]  WebSocket opened.    
+[Mon Jul 17 2023 00:52:26 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:52:26 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:52:26 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 00:53:32 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:53:32]  WebSocket opened.    
+[Mon Jul 17 2023 00:53:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:53:34 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:53:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+[Mon Jul 17 2023 00:54:02 GMT+0900 (日本標準時)] ERROR ReferenceError: freemasseage_ja is not defined
+  at freemasseage_jaattend (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:223:27)
+  at transformtext (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:358:9)
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[Mon Jul 17 2023 00:56:57 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:56:57]  WebSocket opened.    
+[Mon Jul 17 2023 00:56:59 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:56:59 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:56:59 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+[Mon Jul 17 2023 00:57:06 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:57:06]  WebSocket opened.    
+[Mon Jul 17 2023 00:57:09 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:57:09 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:57:09 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+[Mon Jul 17 2023 00:58:21 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 00:58:22]  WebSocket opened.    
+[Mon Jul 17 2023 00:58:23 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 00:58:23 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 00:58:23 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+a
+
+[Mon Jul 17 2023 01:01:02 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:01:02]  WebSocket opened.    
+[Mon Jul 17 2023 01:01:04 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:01:04 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:01:04 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+d
+a
+[Mon Jul 17 2023 01:03:41 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:03:41]  WebSocket opened.    
+[Mon Jul 17 2023 01:03:43 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:03:43 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:03:43 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 01:04:49 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:04:49]  WebSocket opened.    
+[Mon Jul 17 2023 01:04:51 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:04:51 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:04:51 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+a
+a
+[Mon Jul 17 2023 01:24:02 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:24:02]  WebSocket opened.    
+[Mon Jul 17 2023 01:24:05 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:24:05 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:24:05 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I'm tired.
+a
+"how to get motivated"
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+「やる気を出す方法」
+[Mon Jul 17 2023 01:26:32 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:26:32]  WebSocket opened.    
+[Mon Jul 17 2023 01:26:34 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:26:34 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:26:34 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I'm tired.
+a
+The search word you are looking for is: **how to motivate yourself**
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:**どうやって自分を動機づけるか**
+[Mon Jul 17 2023 01:27:45 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:27:45]  WebSocket opened.    
+[Mon Jul 17 2023 01:27:47 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:27:47 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:27:47 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+aI can't make friends.
+how to make friends
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+友達を作る方法
+[Mon Jul 17 2023 01:31:46 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:31:46]  WebSocket opened.    
+[Mon Jul 17 2023 01:31:48 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:31:48 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:31:48 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+aI can't make friends.
+Here are some search words that you can use:
+
+* how to be more energetic
+* how to find your passion
+* how to motivate yourself
+* how to overcome anxiety
+* how to make friends
+
+I hope these help!
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+使用できる検索ワードを次に示します。
+*もっと元気になる方法
+*あなたの情熱を見つける方法
+*やる気を起こさせる方法
+*不安を克服する方法
+*友達を作る方法
+これらが助けになることを願っています!
+I can't make friends.
+aI can't make friends.
+Here are some single YouTube search words that will bring up videos recommended for people who have the following factors:
+
+* am not energetic enough: "how to get more energy"
+* I have a general hobby: "how to find your passion"
+* No effort put into any activities: "how to motivate yourself"
+* I'm worried about the future: "how to deal with anxiety"
+* I can't make friends: "how to make friends"
+
+I hope this helps!
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+以下の要素を持つ人にお勧めのビデオを表示するYouTubeの検索ワードをいくつか紹介しよう。
+*十分なエネルギーがない:「より多くのエネルギーを得る方法」
+*私には一般的な趣味があります:「あなたの情熱を見つける方法」
+*何の活動にも力を入れない:「自分を動機づける方法」
+*将来が心配です:「不安にどう対処するか」
+*友達ができない:「友達を作る方法」
+これが助けになることを願っています!
+[Mon Jul 17 2023 01:35:29 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 01:35:29]  WebSocket opened.    
+[Mon Jul 17 2023 01:35:31 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 01:35:31 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 01:35:31 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't make friends.
+aI can't make friends.
+Here are some keywords you can use to search for videos on YouTube:
+
+* how to make friends
+* how to be more energetic
+* how to deal with anxiety
+* how to find your passion
+* how to overcome obstacles
+* how to be positive
+
+I hope this helps!
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+YouTubeでビデオを検索するために使用できるキーワードをいくつか紹介します。
+*友達を作る方法
+*もっと元気になる方法
+*不安に対処する方法
+*あなたの情熱を見つける方法
+*障害を克服する方法
+*ポジティブになる方法
+これが助けになることを願っています!
+Languid
+aLanguid
+The search word you are looking for is: **how to be more energetic**
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:**もっと元気になる方法**です
+There's a son of a.
+aThere's a son of a.
+The search word you are looking for is: "how to be more energetic"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは、「もっと元気になる方法」です。
+There are many problems.
+aThere are many problems.
+Based on your factors, the following search word will bring up videos recommended for people like you:
+
+* **how to be more energetic**
+
+This search word will bring up videos that will teach you how to increase your energy levels, such as eating a healthy diet, getting enough sleep, and exercising regularly.
+
+I hope this helps!
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたの要因に基づいて、次の検索ワードはあなたのような人に推薦されたビデオを表示します。
+***もっと元気になる方法**
+この検索ワードでは、健康的な食事、十分な睡眠、定期的な運動など、エネルギーレベルを上げる方法を教えるビデオが表示されます。
+これが助けになることを願っています!
+I want to find a hobby.
+aI want to find a hobby.
+Based on the factors you have provided, I would recommend searching for "how to find a hobby" on YouTube. There are many videos that can help you explore your interests and find something that you enjoy doing. Once you have found a hobby, you can start putting effort into it and see how it makes you feel. If you are passionate about something, it can give you a sense of purpose and direction in life. It can also help you connect with other people who share your interests.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが提供してくれた要素に基づいて、YouTubeで「趣味の見つけ方」を検索することをお勧めします。あなたの興味を探求し、あなたが楽しんでいる何かを見つけるのに役立つビデオがたくさんあります。あなたが趣味を見つけたら、あなたはそれに努力を始めて、それがあなたをどのように感じさせるかを見ることができます。もしあなたが何かに情熱を持っていれば、それはあなたに人生の目的と方向性の感覚を与えることができます。また、あなたの興味を共有する他の人とつながるのにも役立ちます。
+Hello.
+aHello.
+Based on the factors you have provided, the following YouTube search word will bring up videos recommended for people who have similar characteristics:
+
+* **how to find your passion**
+
+This search term will return videos that provide advice on how to identify your interests and develop them into hobbies or careers. The videos may include tips on how to explore different activities, how to set goals, and how to overcome obstacles.
+
+I hope this helps!
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが提供した要因に基づいて、以下のYouTube検索ワードは、似たような特徴を持つ人に推薦されたビデオを表示します。
+***あなたの情熱を見つける方法**
+この検索語を使用すると、あなたの興味を特定し、趣味やキャリアに発展させる方法に関するアドバイスを提供するビデオが返されます。ビデオには、さまざまな活動を探求する方法、目標を設定する方法、障害を克服する方法に関するヒントが含まれている場合があります。
+これが助けになることを願っています!
+[Mon Jul 17 2023 02:27:32 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 02:27:32]  WebSocket opened.    
+[Mon Jul 17 2023 02:27:33 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 02:27:33 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 02:27:33 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I can't tell my friends what my hobbies are.
+aI can't tell my friends what my hobbies are.
+**how to be more energetic**
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+**もっと元気になる方法**
+[Mon Jul 17 2023 02:35:04 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 02:35:04]  WebSocket opened.    
+[Mon Jul 17 2023 02:35:06 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 02:35:06 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 02:35:06 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I want money.
+aI want money.
+The single Youtube search word that will bring up videos recommended for people who have the following factors: get irritated, I'm usually on my phone all the time, I have a general hobby, I am passionate about pachinko, I'm a little nervous about the future, I want money is: **motivational videos**.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+イライラしている、いつも携帯電話を使っている、一般的な趣味を持っている、パチンコに情熱を持っている、将来に少し緊張している、お金が欲しい、などの要素を持つ人にお勧めのビデオを表示するユーチューブ検索ワードは、**動機付けビデオ**です。
+[Mon Jul 17 2023 02:46:03 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 02:46:03]  WebSocket opened.    
+[Mon Jul 17 2023 02:46:05 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 02:46:05 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 02:46:05 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 02:49:09 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 02:49:09]  WebSocket opened.    
+[Mon Jul 17 2023 02:49:10 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 02:49:10 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 02:49:10 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+LIFE IS N'T LIKE THIS.
+aLIFE IS N'T LIKE THIS.
+"How to deal with irritation"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+「イライラへの対処法」
+My life is bright.
+aMy life is bright.
+The search word you are looking for is: "hope"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:"hope"です
+I wonder if we can win at Koshien tomorrow.
+aI wonder if we can win at Koshien tomorrow.
+The search word is: "how to deal with anxiety"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「不安に対処する方法」です。
+It's hard for me to get dumped by her. I was told that I'm turning into a frog.
+aIt's hard for me to get dumped by her. I was told that I'm turning into a frog.
+Based on the factors you provided, here are some search words that might be helpful:
+
+* How to deal with anxiety
+* How to manage stress
+* How to cope with change
+* How to stay positive
+* How to find hope
+* How to be happy
+
+I hope these search words help you find the information and support you need.
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+入力した要素に基づいて、役に立つ可能性のある検索ワードを次に示します。
+*不安に対処する方法
+*ストレスの管理方法
+*変化への対応
+*ポジティブであり続ける方法
+*希望を見つける方法
+*幸せになる方法
+これらの検索ワードが、必要な情報やサポートを見つけるのに役立つことを願っています。
+[Mon Jul 17 2023 03:07:07 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 03:07:08]  WebSocket opened.    
+[Mon Jul 17 2023 03:07:09 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 03:07:09 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 03:07:09 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I'm a college student, but I wonder if it's okay to keep doing things like a child. I got mad without thinking about the other person.
+aI'm a college student, but I wonder if it's okay to keep doing things like a child. I got mad without thinking about the other person.
+The search word is: how to be less irritable
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「イライラしない方法」
+Cockroaches have appeared in my house, and I'm worried!
+aCockroaches have appeared in my house, and I'm worried!
+The search word is: how to deal with anxiety
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは不安にどう対処するか
+[Mon Jul 17 2023 07:47:59 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 07:47:59]  WebSocket opened.    
+[Mon Jul 17 2023 07:48:01 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 07:48:01 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 07:48:01 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I am very sleepy after staying up all night.
+aI am very sleepy after staying up all night.
+The search word is: "how to stay positive when you're tired"
+{
+  _336030793_901775360: {
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: undefined,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「疲れているときにポジティブであり続ける方法」
+[2023-07-17 08:16:28]  WebSocket closed. 1000 Normal connection closure null    
+[2023-07-17 09:01:07]  WebSocket opened.    
+[Mon Jul 17 2023 09:01:44 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 09:01:44]  WebSocket opened.    
+[Mon Jul 17 2023 09:01:46 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 09:01:46 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 09:01:46 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+Dull in class
+aDull in class
+"how to be productive"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+「生産性を高める方法」
+[Mon Jul 17 2023 09:20:10 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 09:20:11]  WebSocket opened.    
+[Mon Jul 17 2023 09:20:12 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 09:20:12 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 09:20:12 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+I wonder what I am.
+aI wonder what I am.
+The search word you are looking for is: "how to get motivated"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは"how to get motivated"です。
+The YouTuber is hard.
+aThe YouTuber is hard.
+The search word you are looking for is "positive hobbies".
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは「ポジティブホビー」です。
+I'M FINE!
+aI'M FINE!
+The search word is "positive vibes".
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「positive vibes」です。
+Hello.
+aHello.
+The search word is: "how to get motivated"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは"how to get motivated"。
+a
+aa
+The search word is: "how to deal with stress"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは"how to handle stress"です。
+
+a
+The search word is: "how to get motivated"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは"how to get motivated"。
+[Mon Jul 17 2023 09:39:47 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 09:39:47]  WebSocket opened.    
+[Mon Jul 17 2023 09:39:48 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 09:39:48 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 09:39:48 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+{"in _ reply _ to": "_ 337702741 _ 452984832", "response": 2, "question": "Are you worried about the future?", "options": ["I'm worried about the future", "I'm full of hope", "I'm losing money and not worried about the future", "I'm worried about the future"], "listing": false}
+a{"in _ reply _ to": "_ 337702741 _ 452984832", "response": 2, "question": "Are you worried about the future?", "options": ["I'm worried about the future", "I'm full of hope", "I'm losing money and not worried about the future", "I'm worried about the future"], "listing": false}
+The search word you are looking for is: "how to be less irritated"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは、「イライラを軽減する方法」です。
+None
+aNone
+The search word you are looking for is: **motivational videos**
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは:**動機付けビデオ**
+[Mon Jul 17 2023 09:43:05 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 09:43:05]  WebSocket opened.    
+[Mon Jul 17 2023 09:43:06 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 09:43:06 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 09:43:06 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+hello
+ahello
+The search word you are looking for is: "how to get motivated"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+あなたが探している検索ワードは"how to get motivated"です。
+Genki Japan!
+aGenki Japan!
+The search word is: "Genki Japan!"
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+検索ワードは「元気ジャパン!」です。
+I can't quit pachinko.
+aI can't quit pachinko.
+pachinko addiction
+{
+  _336030793_901775360: {
+    name: null,
+    iconUrl: null,
+    updatedAt: { high: 392, low: -79815000 },
+    leftUsers: null,
+    groupTalkSettings: [ 'None', 1 ],
+    id: '_336030793_901775360',
+    type: 1,
+    userIds: [ [Object], [Object] ],
+    users: [ [Object], [Object] ],
+    domain: {
+      updatedAt: [Object],
+      domainInfo: [Object],
+      contract: [Object],
+      profileDefinition: [Object],
+      setting: [Object],
+      role: [Object],
+      closed: false,
+      id: '_116243070_1140850688',
+      id_i64: [Object],
+      talks: undefined
+    },
+    domainId: '_116243070_1140850688',
+    id_i64: { high: 336030793, low: 901775360 },
+    topic: null,
+    domainId_i64: { high: 116243070, low: 1140850688 }
+  }
+}
+パチンコ中毒
+[Mon Jul 17 2023 09:58:09 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 09:58:09]  WebSocket opened.    
+[Mon Jul 17 2023 09:58:10 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Mon Jul 17 2023 09:58:10 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Mon Jul 17 2023 09:58:10 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded
+[Mon Jul 17 2023 10:01:35 GMT+0900 (日本標準時)] ERROR Error: listen EADDRINUSE: address already in use 0.0.0.0:8080
+  at Server.setupListenHandle [as _listen2] (node:net:1463:16)
+  at listenInCluster (node:net:1511:12)
+  at doListen (node:net:1660:7)
+  at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+[2023-07-17 10:01:35]  WebSocket opened.    
+[Mon Jul 17 2023 10:01:36 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error: Must provide an API Key string.
+  at JWT.fromAPIKey (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/google-auth-library/build/src/auth/jwtclient.js:258:19)
+  at GoogleAuth.fromAPIKey (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/google-auth-library/build/src/auth/googleauth.js:464:16)
+  at module.exports (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:242:34)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:379:9)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at $r.prepareNecessaryDataFromCache (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:337676)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:335783
+  at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+[2023-07-19 15:03:22]  WebSocket opened.    
+[Wed Jul 19 2023 15:03:24 GMT+0900 (日本標準時)] ERROR Unable to load /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot: Error: Must provide an API Key string.
+  at JWT.fromAPIKey (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/google-auth-library/build/src/auth/jwtclient.js:258:19)
+  at GoogleAuth.fromAPIKey (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/google-auth-library/build/src/auth/googleauth.js:464:16)
+  at module.exports (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js:241:34)
+  at Robot.loadFile (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:379:9)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:52
+  at Array.map (<anonymous>:null:null)
+  at Robot.load (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/src/robot.js:399:35)
+  at Adapter.loadScripts (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/lisb-hubot/bin/hubot.js:115:9)
+  at Object.onceWrapper (node:events:627:28)
+  at Adapter.emit (node:events:513:28)
+  at l.<anonymous> (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/hubot-direct/src/direct.coffee:127:6, <js>:201:21)
+  at l.emit (node:events:513:28)
+  at e.DirectAPI.emit (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:3345)
+  at Ta.handleNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:368934)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at Do.notifyObserver (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434266)
+  at No.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:431709)
+  at A.notifyObservers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15835)
+  at A.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:15748)
+  at $r.sendNotification (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:37455)
+  at $r.onNecessaryDataPrepared (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:338212)
+  at n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at c (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235845)
+  at Tr.getUserIdentifiers (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234586)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:234677
+  at Kr.onSuccess (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:235179)
+  at Yr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:323659)
+  at hr.n [as onmessage] (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at hr.onMessage (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:208842)
+  at WebSocketConnection.n (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/direct-js/lib/direct-node.min.js:1:434536)
+  at WebSocketConnection.emit (node:events:513:28)
+  at WebSocketConnection.processFrame (/Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+  at /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/node_modules/websocket/lib/WebSocketConnection.js:323:40
+  at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+[2023-07-19 15:04:28]  WebSocket opened.    
+[Wed Jul 19 2023 15:04:31 GMT+0900 (日本標準時)] INFO /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/palmbot.js is using deprecated documentation syntax
+[Wed Jul 19 2023 15:04:31 GMT+0900 (日本標準時)] WARNING Expected /Users/ryotaro/Documents/大学3年/分散情報システム/最終課題/PaLMBot/scripts/privatekey to assign a function to module.exports, got object
+[Wed Jul 19 2023 15:04:31 GMT+0900 (日本標準時)] INFO hubot-redis-brain: Discovered redis from REDIS_URL environment variable
+Google Oauth authorization succeeded

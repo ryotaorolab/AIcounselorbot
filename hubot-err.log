@@ -1,0 +1,47 @@
+[2023-07-16 21:13:40]  WebSocket error. event: [Error: read ECONNRESET
+  at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+] {
+  errno: -54,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}   
+[2023-07-17 08:16:29]  WebSocket error. event: [Error: getaddrinfo ENOTFOUND api.direct4b.com
+  at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+] {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.direct4b.com'
+}   
+[2023-07-17 08:20:37]  WebSocket error. event: [Error: getaddrinfo ENOTFOUND api.direct4b.com
+  at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+] {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.direct4b.com'
+}   
+[2023-07-17 08:32:22]  WebSocket error. event: [Error: getaddrinfo ENOTFOUND api.direct4b.com
+  at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+] {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.direct4b.com'
+}   
+[2023-07-17 08:50:29]  WebSocket error. event: [Error: getaddrinfo ENOTFOUND api.direct4b.com
+  at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+] {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.direct4b.com'
+}   
+[2023-07-17 09:00:23]  WebSocket error. event: [Error: getaddrinfo ENOTFOUND api.direct4b.com
+  at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+] {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.direct4b.com'
+}   
